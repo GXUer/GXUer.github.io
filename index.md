@@ -1,15 +1,17 @@
-## 机器人+机器视觉+Matlab
+# 机器人+机器视觉+Matlab
 
 You can use the [editor on GitHub](https://github.com/WYGGXUer/WYGGXUer.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### 
+## 10.2 色彩
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+光度计量单位考虑了观察者的视觉感受，测量单位为流明（lm）。
 
 ```markdown
 Syntax highlighted code block
+
+### 10.2.1 颜色再造
 
 # Header 1
 ## Header 2
@@ -32,6 +34,3 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WYGGXUer/WYGGXUer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

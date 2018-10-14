@@ -8,10 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 光度计量单位考虑了观察者的视觉感受，测量单位为流明（lm）。
 
+### 10.2.1 颜色再造
+
 ```markdown
 Syntax highlighted code block
-
-### 10.2.1 颜色再造
 
 # Header 1
 ## Header 2

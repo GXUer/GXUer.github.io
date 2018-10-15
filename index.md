@@ -1,4 +1,4 @@
-# 机器人+机器视觉+Matlab
+# 机器
 
 You can use the [editor on GitHub](https://github.com/WYGGXUer/WYGGXUer.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
